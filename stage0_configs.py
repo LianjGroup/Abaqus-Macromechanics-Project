@@ -63,8 +63,11 @@ def main_config():
             templatePath, 
             targetPath
         ) = initialize_directory(optimizeStrategy, material, hardeningLaw, geometries, curveIndex)
-        yieldingIndices = yieldingIndex.split(".")
+
+        yieldingIndices = str(yieldingIndex).split(";")
         yieldingIndices = [int(i) for i in yieldingIndices]
+        #print(yieldingIndices)
+        #time.sleep(60)
         # zip with the geometries, where geometry is key and yieldingIndex is value
         yieldingIndices = dict(zip(geometries, yieldingIndices))
         #print(yieldingIndices)
