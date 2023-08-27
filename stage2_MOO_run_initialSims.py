@@ -10,6 +10,8 @@ from modules.helper import *
 from modules.stoploss import *
 from optimizers.BO import *
 from stage0_configs import * 
+import stage0_configs 
+import stage1_MOO_prepare_targetCurve
 from stage1_MOO_prepare_targetCurve import *
 from math import *
 import json
@@ -70,3 +72,10 @@ def main_run_initialSims(info):
             printLog(f"Initial simulations for {geometry} geometry already exist", logPath)
             numberOfInitialSims = len(np.load(f"{resultPathGeometry}/initial/common/FD_Curves_unsmooth.npy", allow_pickle=True).tolist())
             printLog(f"Number of initial simulations for {geometry} geometry: {numberOfInitialSims} FD curves", logPath)
+
+if __name__ == "__main__":
+    info = stage0_configs.main_config()
+    targetCurves, maxTargetDisplacements = stage1_MOO_prepare_targetCurve.main_prepare_targetCurve(info)
+    info['targetCurves'] = targetCurves
+    info['maxTargetDisplacements'] = maxTargetDisplacements
+    main_run_initialSims(info)

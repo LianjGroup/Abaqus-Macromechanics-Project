@@ -4,3 +4,7 @@ matplotlib
 scikit-learn
 bayesian-optimization
 prettytable
+scikit-learn
+scipy
+torch
+botorch
