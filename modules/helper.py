@@ -384,15 +384,15 @@ def replace_materialName_geometry_inp(filePath, materialName):
         geometry_inp_content = geometry_inp.readlines()
     start_line = None
     end_line = None
-    for i, line in enumerate(geometry_inp_content[-60:]):
+    for i, line in enumerate(geometry_inp_content[-100:]):
         if line.startswith('*INCLUDE, INPUT='):
-            original_index = len(geometry_inp_content) - 60 + i
+            original_index = len(geometry_inp_content) - 100 + i
             start_line = original_index
             end_line = original_index + 1
             break
 
     if start_line is None or end_line is None:
-        raise ValueError('Could not find the **INCLUDE, INPUT= section')
+        raise ValueError('Could not find the *INCLUDE, INPUT= section')
 
     new_material_data = f"*INCLUDE, INPUT={materialName}\n"
 
