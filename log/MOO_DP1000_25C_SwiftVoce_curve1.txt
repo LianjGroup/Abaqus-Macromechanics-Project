@@ -293,3 +293,303 @@ The path to your main project folder is
 
 c:\Users\springnuance\Desktop\Abaqus-Macromechanics-Project
 
+
+Welcome to Abaqus hardening parameter calibration project
+
+
+The configurations you have chosen: 
+
++------------------------+----------------+
+|     Global Configs     |  User choice   |
++------------------------+----------------+
+|    SLURM iteration     | one_node_small |
+| Number of initial sims |      200       |
+|   Optimize strategy    |      MOO       |
+|        Material        |   DP1000_25C   |
+|     Hardening law      |   SwiftVoce    |
+|      Curve index       |       1        |
+|       Geometries       |   NDBR20,SH    |
+|     Optimizer name     |    BOTORCH     |
+|   Deviation percent    |       2        |
++------------------------+----------------+
+
+Generating necessary directories
+
+The path to your main project folder is
+
+c:\Users\springnuance\Desktop\Abaqus-Macromechanics-Project
+
+
+Welcome to Abaqus hardening parameter calibration project
+
+
+The configurations you have chosen: 
+
++------------------------+-------------------+
+|     Global Configs     |    User choice    |
++------------------------+-------------------+
+|    SLURM iteration     |   one_node_small  |
+| Number of initial sims |        200        |
+|   Optimize strategy    |        MOO        |
+|        Material        |     DP1000_25C    |
+|     Hardening law      |     SwiftVoce     |
+|      Curve index       |         1         |
+|       Geometries       | NDBR50,NDBR6,CHD6 |
+|     Optimizer name     |      BOTORCH      |
+|   Deviation percent    |         2         |
++------------------------+-------------------+
+
+Generating necessary directories
+
+The path to your main project folder is
+
+C:\Users\springnuance\Desktop\Abaqus-Macromechanics-Project
+
+=======================================================================
+Initial simulations for NDBR50 geometry already exist
+Number of initial simulations for NDBR50 geometry: 200 FD curves
+=======================================================================
+Initial simulations for NDBR6 geometry already exist
+Number of initial simulations for NDBR6 geometry: 200 FD curves
+=======================================================================
+Initial simulations for CHD6 geometry already exist
+Number of initial simulations for CHD6 geometry: 200 FD curves
+There are no iteration simulations. Program starts running the iteration simulations
+
+Welcome to Abaqus hardening parameter calibration project
+
+
+The configurations you have chosen: 
+
++------------------------+-------------------+
+|     Global Configs     |    User choice    |
++------------------------+-------------------+
+|    SLURM iteration     |   one_node_small  |
+| Number of initial sims |        200        |
+|   Optimize strategy    |        MOO        |
+|        Material        |     DP1000_25C    |
+|     Hardening law      |     SwiftVoce     |
+|      Curve index       |         1         |
+|       Geometries       | NDBR50,NDBR6,CHD6 |
+|     Optimizer name     |      BOTORCH      |
+|   Deviation percent    |         2         |
++------------------------+-------------------+
+
+Generating necessary directories
+
+The path to your main project folder is
+
+C:\Users\springnuance\Desktop\Abaqus-Macromechanics-Project
+
+=======================================================================
+Initial simulations for NDBR50 geometry already exist
+Number of initial simulations for NDBR50 geometry: 200 FD curves
+=======================================================================
+Initial simulations for NDBR6 geometry already exist
+Number of initial simulations for NDBR6 geometry: 200 FD curves
+=======================================================================
+Initial simulations for CHD6 geometry already exist
+Number of initial simulations for CHD6 geometry: 200 FD curves
+There are no iteration simulations. Program starts running the iteration simulations
+
+Welcome to Abaqus hardening parameter calibration project
+
+
+The configurations you have chosen: 
+
++------------------------+-------------------+
+|     Global Configs     |    User choice    |
++------------------------+-------------------+
+|    SLURM iteration     |   one_node_small  |
+| Number of initial sims |        200        |
+|   Optimize strategy    |        MOO        |
+|        Material        |     DP1000_25C    |
+|     Hardening law      |     SwiftVoce     |
+|      Curve index       |         1         |
+|       Geometries       | NDBR50,NDBR6,CHD6 |
+|     Optimizer name     |      BOTORCH      |
+|   Deviation percent    |         2         |
++------------------------+-------------------+
+
+Generating necessary directories
+
+The path to your main project folder is
+
+C:\Users\springnuance\Desktop\Abaqus-Macromechanics-Project
+
+=======================================================================
+Initial simulations for NDBR50 geometry already exist
+Number of initial simulations for NDBR50 geometry: 200 FD curves
+=======================================================================
+Initial simulations for NDBR6 geometry already exist
+Number of initial simulations for NDBR6 geometry: 200 FD curves
+=======================================================================
+Initial simulations for CHD6 geometry already exist
+Number of initial simulations for CHD6 geometry: 200 FD curves
+There are no iteration simulations. Program starts running the iteration simulations
+
+Welcome to Abaqus hardening parameter calibration project
+
+
+The configurations you have chosen: 
+
++------------------------+-------------------+
+|     Global Configs     |    User choice    |
++------------------------+-------------------+
+|    SLURM iteration     |   one_node_small  |
+| Number of initial sims |        200        |
+|   Optimize strategy    |        MOO        |
+|        Material        |     DP1000_25C    |
+|     Hardening law      |     SwiftVoce     |
+|      Curve index       |         1         |
+|       Geometries       | NDBR50,NDBR6,CHD6 |
+|     Optimizer name     |      BOTORCH      |
+|   Deviation percent    |         2         |
++------------------------+-------------------+
+
+Generating necessary directories
+
+The path to your main project folder is
+
+C:\Users\springnuance\Desktop\Abaqus-Macromechanics-Project
+
+=======================================================================
+Initial simulations for NDBR50 geometry already exist
+Number of initial simulations for NDBR50 geometry: 200 FD curves
+=======================================================================
+Initial simulations for NDBR6 geometry already exist
+Number of initial simulations for NDBR6 geometry: 200 FD curves
+=======================================================================
+Initial simulations for CHD6 geometry already exist
+Number of initial simulations for CHD6 geometry: 200 FD curves
+There are no iteration simulations. Program starts running the iteration simulations
+
+Welcome to Abaqus hardening parameter calibration project
+
+
+The configurations you have chosen: 
+
++------------------------+-------------------+
+|     Global Configs     |    User choice    |
++------------------------+-------------------+
+|    SLURM iteration     |   one_node_small  |
+| Number of initial sims |        200        |
+|   Optimize strategy    |        MOO        |
+|        Material        |     DP1000_25C    |
+|     Hardening law      |     SwiftVoce     |
+|      Curve index       |         1         |
+|       Geometries       | NDBR50,NDBR6,CHD6 |
+|     Optimizer name     |      BOTORCH      |
+|   Deviation percent    |         2         |
++------------------------+-------------------+
+
+Generating necessary directories
+
+The path to your main project folder is
+
+C:\Users\springnuance\Desktop\Abaqus-Macromechanics-Project
+
+=======================================================================
+Initial simulations for NDBR50 geometry already exist
+Number of initial simulations for NDBR50 geometry: 200 FD curves
+=======================================================================
+Initial simulations for NDBR6 geometry already exist
+Number of initial simulations for NDBR6 geometry: 200 FD curves
+=======================================================================
+Initial simulations for CHD6 geometry already exist
+Number of initial simulations for CHD6 geometry: 200 FD curves
+There are no iteration simulations. Program starts running the iteration simulations
+
+Welcome to Abaqus hardening parameter calibration project
+
+
+The configurations you have chosen: 
+
++------------------------+-------------------+
+|     Global Configs     |    User choice    |
++------------------------+-------------------+
+|    SLURM iteration     |   one_node_small  |
+| Number of initial sims |        200        |
+|   Optimize strategy    |        MOO        |
+|        Material        |     DP1000_25C    |
+|     Hardening law      |     SwiftVoce     |
+|      Curve index       |         1         |
+|       Geometries       | NDBR50,NDBR6,CHD6 |
+|     Optimizer name     |      BOTORCH      |
+|   Deviation percent    |         2         |
++------------------------+-------------------+
+
+Generating necessary directories
+
+The path to your main project folder is
+
+C:\Users\springnuance\Desktop\Abaqus-Macromechanics-Project
+
+=======================================================================
+Initial simulations for NDBR50 geometry already exist
+Number of initial simulations for NDBR50 geometry: 200 FD curves
+=======================================================================
+Initial simulations for NDBR6 geometry already exist
+Number of initial simulations for NDBR6 geometry: 200 FD curves
+=======================================================================
+Initial simulations for CHD6 geometry already exist
+Number of initial simulations for CHD6 geometry: 200 FD curves
+There are no iteration simulations. Program starts running the iteration simulations
+
+Welcome to Abaqus hardening parameter calibration project
+
+
+The configurations you have chosen: 
+
++------------------------+-------------------+
+|     Global Configs     |    User choice    |
++------------------------+-------------------+
+|    SLURM iteration     |   one_node_small  |
+| Number of initial sims |        200        |
+|   Optimize strategy    |        MOO        |
+|        Material        |     DP1000_25C    |
+|     Hardening law      |     SwiftVoce     |
+|      Curve index       |         1         |
+|       Geometries       | NDBR50,NDBR6,CHD6 |
+|     Optimizer name     |      BOTORCH      |
+|   Deviation percent    |         2         |
++------------------------+-------------------+
+
+Generating necessary directories
+
+The path to your main project folder is
+
+C:\Users\springnuance\Desktop\Abaqus-Macromechanics-Project
+
+=======================================================================
+Initial simulations for NDBR50 geometry already exist
+Number of initial simulations for NDBR50 geometry: 200 FD curves
+=======================================================================
+Initial simulations for NDBR6 geometry already exist
+Number of initial simulations for NDBR6 geometry: 200 FD curves
+=======================================================================
+Initial simulations for CHD6 geometry already exist
+Number of initial simulations for CHD6 geometry: 200 FD curves
+There are no iteration simulations. Program starts running the iteration simulations
+
+############################################################
+
+Running iteration 1 for DP1000_25C_SwiftVoce_curve1
+The next candidate SwiftVoce parameters predicted by BOTORCH
+
++-----------+-----------------------+
+| Parameter |         Value         |
++-----------+-----------------------+
+|     W     |   0.8424238562583923  |
+|     K     |  1734.94384765625 MPa |
+|     e0    |  0.08104556798934937  |
+|     n     |          0.0          |
+|  sigma_y  | 1020.428955078125 MPa |
+| sigma_sat | 499.9999694824219 MPa |
+|     b     |   99.99999237060547   |
++-----------+-----------------------+
+
+Start running iteration simulation
+Iteration simulation preprocessing stage starts
+Number of jobs required: 3
+Iteration simulation postprocessing stage finished
