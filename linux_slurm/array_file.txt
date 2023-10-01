@@ -1,3 +1,5 @@
-C:\Users\springnuance\Desktop\Abaqus-Macromechanics-Project/MOO_simulations/DP1000_25C_SwiftVoce_curve1/NDBR50/iteration/1
-C:\Users\springnuance\Desktop\Abaqus-Macromechanics-Project/MOO_simulations/DP1000_25C_SwiftVoce_curve1/NDBR6/iteration/1
-C:\Users\springnuance\Desktop\Abaqus-Macromechanics-Project/MOO_simulations/DP1000_25C_SwiftVoce_curve1/CHD6/iteration/1
+\\home.org.aalto.fi\mogusn1\data\Desktop\Abaqus-Macromechanics-Project/MOO_simulations/DP1000_25C_SwiftVoce_curve1/NDBR50/iteration/1
+\\home.org.aalto.fi\mogusn1\data\Desktop\Abaqus-Macromechanics-Project/MOO_simulations/DP1000_25C_SwiftVoce_curve1/NDBR20/iteration/1
+\\home.org.aalto.fi\mogusn1\data\Desktop\Abaqus-Macromechanics-Project/MOO_simulations/DP1000_25C_SwiftVoce_curve1/NDBR6/iteration/1
+\\home.org.aalto.fi\mogusn1\data\Desktop\Abaqus-Macromechanics-Project/MOO_simulations/DP1000_25C_SwiftVoce_curve1/CHD6/iteration/1
+\\home.org.aalto.fi\mogusn1\data\Desktop\Abaqus-Macromechanics-Project/MOO_simulations/DP1000_25C_SwiftVoce_curve1/SH/iteration/1
